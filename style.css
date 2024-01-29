@@ -119,4 +119,12 @@ a.change-order {
     .card {
         width: 100%;
     }
+    p.paragraph {
+        width: 70%;
+        margin-left: 15%;
+    }
+    .row.prices {
+        width: 90%;
+        margin-left: 5%;
+    }
 }
